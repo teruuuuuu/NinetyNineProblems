@@ -8,6 +8,7 @@ import P07Spec
 import P08Spec
 import P09Spec
 import P10Spec
+import P11Spec
 
 main :: IO ()
 main = do
@@ -21,3 +22,4 @@ main = do
     P08Spec.myTest
     P09Spec.myTest
     P10Spec.myTest
+    P11Spec.myTest
