@@ -1,5 +1,5 @@
 module P11 (
-    encodeModified, listData
+    encodeModified, listData, ListItem(Single, Multiple)
 ) where
 import P10
 
